@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sojib Das</h1>
-<h3 align="center">A passionate MERN STACK developer from bangladesh</h3>
+<h3 align="center">A passionate MERN STACK developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sojib076&label=Profile%20views&color=0e75b6&style=flat" alt="sojib076" /> </p>
 
