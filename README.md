@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Sojib Das . I am from Bangladesh<br><br>- 🔭 I’m working as Website Developer<br>- 📚 I'm currently learning SQL<br>- ⚡ In my free time I read books</p>
+<p align="left">I'm Sojib Das . I am from Bangladesh . I am mern stack developer <br><br>- 🔭 I’m working as Website Developer<br>- 📚 I'm currently learning SQL<br>- ⚡ In my free time I read books</p>
 
 ###
 
